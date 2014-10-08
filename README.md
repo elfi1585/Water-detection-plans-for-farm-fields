@@ -1,4 +1,8 @@
-Water-detection-plans-for-farm-fields
-=====================================
-flood irrigation for Jacob Springs. 
-deep ground sensors to detect moisture/soaking levels in soil at different depths and sections of the field. 
+Background/ Client Info:
+  Our client is Andre Houssne from Jacob Sprins Farm. He runs a small farm with several products, mainly dairy and meat. However, he also has a field in which he grows all variations of vegetables. The problem Andre has is that he does not know whether or not he is giving his crops enough water. That part of the farm is running on intution only. He asked us to find a way to determine the moisture levels of the soil, so that he may use that data to determine how often and how much he has to water his crops and how deep the water goes when he waters them.
+  
+  Design Requirements - Quantitative Measures
+    The requirements we have for this project are that we need to be able to measure moisture levels at different depths and at different locations in the field. furthermore, we need to be able to take the data given to us from the moisture sensors and put it into a graph so that other farmers would be able to use the given data for their own farms. We need to have sensors at one, two, and four feet in order to measure moisture at different depths in the soil. We also need these measurements to be fairly accurate so that the efficiency of the farm is as high as possible. The sensors also need to be easily moveable and reinstallable to measure moisture at differenct sections of the field.
+    
+    Design Alternatives (Brainstorming etc.)
+      At first, we thought about having three moisture sensors in one pipe and the sensors would stick out horizontally from the pipe. However, this posed a problem because it would be very difficult to get the sensors in the soil and have the soil be tightly packed around the sensors. We thought about having a device that would push them into the soil from the pipe after the pipe was inserted in the soil, but that idea proved to be too complex. We then came up with the idea to put the sensors at teh bottom of the pipes, sticking out directly downwards, but that idea would have caused possible error because it would not fully sense the moisture. Finally, we came up with the idea to put three pipes in right next to each other at a forty-five dergree angle with the sensors at the bottom. The pipes would have a length of one, two, and four feet to measure the moisture at different depths. This is the design that we chose to stick with.
