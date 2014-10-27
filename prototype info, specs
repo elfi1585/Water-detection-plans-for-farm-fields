@@ -1,0 +1,20 @@
+Prototype specs
+For our prototype, we were aiming to test different sensors and how they worked, with both the arduino and the raspberry pi.
+However, shipping got delayed and we could not get the wanted sensors in time. We then had to order a cheaper sensor from
+Amazon. Thus, we were limited in what we were able to test. However, we were able to experiment with the raspberry pi and the arduino,
+and we used a mix of both in our prototype in order to read the data two different ways, using analog and digital.
+
+For constructing our prototype, we had to put an operating system on an sd card from scratch, as the operating system we wanted was not
+a common operating system. We also had to install several programs onto the raspberry pi, and then on both the raspberry pi and arduino we had 
+to write a program that would read the moisture level at one second intervals so that the scroll wouldn't be to fast, and it would be readable.
+We then just had to connect the moisture sensor to the appropriate pins on the arduino and raspberry pi.
+
+Some advantages of our protoype were:
+-It was easily portable. You could easily grab your computer and the sensor and carry it to different parts of the field in order to get instant/live readings.
+-The user could choose whether or not to use the system from the raspberry pi or the arduino.
+
+Some disadvantages of our prototype were:
+-If using a raspberry pi, it would be difficult to find a power source to power the system, especially in an open field, where you would want it to be portable.
+-We did not have any casing, so you could not leave it in a field because all the parts would be very vulnerable to the surroundings.
+-Since we did not get the parts until late, we were pressed for time, which made the build stressful.
+-The sensor we had was not very sensitive, and so it would not read pure water as 100% moisture, and it would not give a digital output of zero.
