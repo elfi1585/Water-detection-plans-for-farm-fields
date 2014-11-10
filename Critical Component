@@ -3,10 +3,10 @@ Critical Component:
 because they are what separates our device from other moisture sensors. Other moisture sensors are often used for indoor watering
 of plants, or just briefly used outside in the garden. Our device will have to withstand weather from being left outside for
 extended periods of time, and also the flood of water that comes from actually flood irrigating the farm. It will also have to
-get deep underground instead of how most moisture sensors just are reading the surface of the soil. Our critical components serve
-these purposes; the waterproof encasement protects the Raspberry Pi and LCD screen from weather and the flood irrigation, and the
-pipes allow the moisture sensors to get to the required depths and also are high enough that the flood irrigation won't flow
-into the pipes and mess up the moisture reading.
+be placed deep underground as opposed to how most moisture sensors simply read the surface moisture of the soil. Our critical components serve
+the purposes that the waterproof encasement protects the Raspberry Pi and LCD screen from weather and the flood irrigation. Also, the
+pipes allow the moisture sensors to reach the required depths and also are high enough above the groundthat the flood irrigation won't flow
+into the pipes and disturb the moisture reading.
 	The pieces necessary for our critical components were a total of 20' of PVC pipe (~$10), Adafruit waterproof encasement for
 Raspberry Pi (~$20), O-rings that we made from recycled bicycle tires, and a stand made from scrap wood. The prices of our critical
 components add up to be around $30.
