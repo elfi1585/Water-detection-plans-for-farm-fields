@@ -16,6 +16,9 @@
 6. Final Design:
 	Description:
 		Each device will have one Raspberry Pi, three moisture sensors, one waterproof encasement, one LCD screen, three pipes at 45 degree angles, one solar panel, and wiring to connect the electrical components. The moisture sensors will reach depths of one, two, and four feet.
+
+	![Device out of the ground](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/20141204_181332.jpg)
+	
 	Manufacturing Process:
 		The only parts that needed manufacturing were the critical components, which were the encasements and protection of our electronics. We measured the pipes very carefully before cutting them to the right length and angle, and also drilled holes in the box for the wires to go through and be directly centered over the pipes.
 
