@@ -15,14 +15,15 @@
 
 6. Final Design:
 	Description:
-		Each device will have one Raspberry Pi, three moisture sensors, one waterproof encasement, one LCD screen, three pipes, one solar panel, and wiring to connect the electrical components. The moisture sensors will reach depths of one, two, and four feet.
+		Each device will have one Raspberry Pi, three moisture sensors, one waterproof encasement, one LCD screen, three pipes at 45 degree angles, one solar panel, and wiring to connect the electrical components. The moisture sensors will reach depths of one, two, and four feet.
 	Manufacturing Process:
-		The only parts that needed manufacturing were the critical components, which were the encasements and protection of our electronics.
+		The only parts that needed manufacturing were the critical components, which were the encasements and protection of our electronics. We measured the pipes very carefully before cutting them to the right length and angle, and also drilled holes in the box for the wires to go through and be directly centered over the pipes.
 
 7. Testing & Analysis:
 	Critical Components:
 		Our critical components are the waterproof encasement and the piping of our device. We chose these to be our critical components because they are what separates our device from other moisture sensors. Other moisture sensors are often used for indoor watering of plants, or just briefly used outside in the garden. Our device will have to withstand weather from being left outside for extended periods of time, and also the flood of water that comes from actually flood irrigating the farm. It will also have to be placed deep underground as opposed to how most moisture sensors simply read the surface moisture of the soil. Our critical components serve the purposes that the waterproof encasement protects the Raspberry Pi and LCD screen from weather and the flood irrigation. Also, the pipes allow the moisture sensors to reach the required depths and also are high enough above the ground that the flood irrigation won't flow into the pipes and disturb the moisture reading.
 	Analysis used in Design:
+		We designed our pipes to be at 45 degree angles so the moisture sensors collected more accurate data as the water saturated the soil. We also have our pipes reach depths of one, two, and four feet because the roots will be a arround one to two feet deep, but can draw water from around four feet. The wooden stand also left holes from each end for the water to flow under as to not get pushed away by the flow of the water.
 		
 	User Testing:
 		The first test showed that we needed an ADC for our Raspberry Pis to read analog input, and that our moisture sensors needed some calibrating before use. Testing also showed that the moisture was not 100% in pure water. This was because pure distilled water will not conduct any electricity. A moisture sensor works by sending a current through one prong to the other. The sensor then uses that data to make a moisture reading. Thus, since water does not always conduct electricity, we found that pure water will not always give a 100% reading. 
