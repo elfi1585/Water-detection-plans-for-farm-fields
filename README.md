@@ -23,6 +23,8 @@
 	
 	![Contents of Encasement](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/20141204_181129.jpg)
 	
+	![LCD Reading](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/Reading.jpg)
+	
 	Manufacturing Process:
 		The only parts that needed manufacturing were the critical components, which were the encasements and protection of our electronics. We measured the pipes very carefully before cutting them to the right length and angle, and also drilled holes in the box for the wires to go through and be directly centered over the pipes.
 
