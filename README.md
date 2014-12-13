@@ -17,7 +17,11 @@
 	Description:
 		Each device will have one Raspberry Pi, three moisture sensors, one waterproof encasement, one LCD screen, three pipes at 45 degree angles, one solar panel, and wiring to connect the electrical components. The moisture sensors will reach depths of one, two, and four feet.
 
-	![Device out of the ground](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/20141204_181332.jpg)
+	![Device out of the Ground](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/20141204_181332.jpg)
+	
+	![Device in the Ground](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/20141204_170716.jpg)
+	
+	![Contents of Encasement](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/20141204_181129.jpg)
 	
 	Manufacturing Process:
 		The only parts that needed manufacturing were the critical components, which were the encasements and protection of our electronics. We measured the pipes very carefully before cutting them to the right length and angle, and also drilled holes in the box for the wires to go through and be directly centered over the pipes.
@@ -48,7 +52,11 @@
 	Ammount Left to Spend: $18.43
 
 10. Timeline:
-	
+
+![Timeline](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/Untitled.png)
 
 11. Appendix:
 	We calculated the lengths to cut the pipes to by using the Pythagorean Theorem:	a2+b2=c2. The moisture level is determined by an analog signals sent from the moisture sensors, that are then converted into digital signals that the Raspberry Pi can read, and a code library that came with the MCP will convert the signal into a percentage that is easy to understand.
+
+![CAD Model of Device](https://github.com/elfi1585/Water-detection-plans-for-farm-fields/blob/master/Pictures/CAD%20pipes.png)
+
